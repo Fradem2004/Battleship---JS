@@ -413,7 +413,7 @@ class Board {
 	// Cell colors
 	static INITIAL_COLOR = '#bbbbbb'; // Neutral color
 	static MISS_COLOR = '#006994';    // This reveals WATER
-	static HIT_COLOR = 'red';         // This reveals a ship
+	static HIT_COLOR = 'blue';         // This reveals a ship
 	static COORD_COLOR = 'black';     // Edge cells
 
 	// Cell size
